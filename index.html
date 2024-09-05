@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Grandes Heróis</title>
+</head>
+
+<body onload="popular(); busca();">
+    <header>
+        <h1>GRANDES HERÓIS</h1>
+    </header>
+    <main>
+        <section>
+            <div class="pesquisa">
+                <select id="editoras" onchange="popular()">
+                    <option>DC</option>
+                    <option>Marvel</option>
+                </select>
+                <select id="herois" onchange="busca()"></select>
+<!--                <button onclick="busca()">Pesquisar</button> -->
+            </div>
+        </section>
+        <section class="resultados-pesquisa">
+            <div class="item-resultado">
+                <div id="nome"></div>
+                <p id="dados" class="descricao-meta"></p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        2024 - Grandes Heróis. Todos os direitos reservados
+    </footer>
+    <script src="js/dados.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
