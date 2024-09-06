@@ -134,7 +134,7 @@ let dados = {
 
     "Marvel": [
         {
-            "Nome": "Homem-Aranha",
+            "Nome": "Homem Aranha",
             "Nome de batismo": "Peter Parker",
             "Criadores": "Stan Lee e Steve Ditko",
             "Ano de criação": 1962,

@@ -121,6 +121,7 @@ section button:hover {
     scrollbar-width: thin;
     scrollbar-color: #555 transparent;
     scrollbar-track-color: transparent;
+    text-shadow: 1px 1px 3px black, -1px 1px 3px black, 1px -1px 3px black, -1px -1px 3px black;
 }
 
 #dados::-webkit-scrollbar {

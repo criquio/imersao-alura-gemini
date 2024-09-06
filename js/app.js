@@ -31,4 +31,10 @@ function busca(){
     document.getElementById("nome").innerHTML = dados[editora][heroi].Nome;
     document.getElementById("dados").innerHTML = desc;
 
+    let avatar = dados[editora][heroi].Nome.toLowerCase().replaceAll(" ", "_").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    document.getElementById("dados").style.backgroundImage = "url(../imagens/personagens/" + avatar + ".png)";
+    document.getElementById("dados").style.backgroundPosition = "top right";
+    document.getElementById("dados").style.backgroundRepeat = "no-repeat";
+    document.getElementById("dados").style.backgroundSize = "auto 200px";
+
 }
