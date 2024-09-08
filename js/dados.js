@@ -3,6 +3,9 @@ let dados = {
         {
             "Nome": "Super Homem",
             "Nome original": "Superman",
+            "Outros nomes": "'O Homem de Aço', 'Clark Kent'",
+            "Cidade de residência": "Metrópolis",
+            "Bordões": "'Para o alto e avante!'",
             "Nome de batismo": "Kal-El",
             "Criadores": "Jerry Siegel e Joe Shuster",
             "Ano de criação": 1938,
@@ -17,6 +20,9 @@ let dados = {
         {
             "Nome": "Mulher Maravilha",
             "Nome original": "Wonder Woman",
+            "Outros nomes": "'Diana Prince', 'Princesa Amazona'",
+            "Cidade de residência": "Themyscira, Washington D.C.",
+            "Bordões": "'Por Themyscira!'",
             "Nome de batismo": "Diana",
             "Criadores": "William Moulton Marston",
             "Ano de criação": 1941,
@@ -31,6 +37,9 @@ let dados = {
         {
             "Nome": "Supergirl",
             "Nome original": "Supergirl",
+            "Outros nomes": "'Kara Danvers', 'Garota de Aço'",
+            "Cidade de residência": "National City",
+            "Bordões": "'A esperança nunca morre!'",
             "Nome de batismo": "Kara Zor-El",
             "Criadores": "Otto Binder e Al Plastino",
             "Ano de criação": 1959,
@@ -45,6 +54,9 @@ let dados = {
         {
             "Nome": "Flash",
             "Nome original": "Flash",
+            "Outros nomes": "'O Homem Mais Rápido do Mundo', 'Scarlet Speedster'",
+            "Cidade de residência": "Central City",
+            "Bordões": "'Eu sou o homem mais rápido vivo!'",
             "Nome de batismo": "Barry Allen",
             "Criadores": "Gardner Fox e Harry Lampert",
             "Ano de criação": 1940,
@@ -59,6 +71,9 @@ let dados = {
         {
             "Nome": "Estelar",
             "Nome original": "Starfire",
+            "Outros nomes": "'Princesa Koriand'r', 'Estrela de Fogo'",
+            "Cidade de residência": "Nova Iorque",
+            "Bordões": "'Pelo poder de Tamaran!'",
             "Nome de batismo": "Koriand'r",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -73,6 +88,9 @@ let dados = {
         {
             "Nome": "Ravena",
             "Nome original": "Raven",
+            "Outros nomes": "'Rachel Roth', 'Filha das Trevas'",
+            "Cidade de residência": "Nova Iorque",
+            "Bordões": "'Azarath Metrion Zinthos!'",
             "Nome de batismo": "Rachel Roth",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -87,6 +105,9 @@ let dados = {
         {
             "Nome": "Asa Noturna",
             "Nome original": "Nightwing",
+            "Outros nomes": "'Dick Grayson', 'O Primeiro Robin'",
+            "Cidade de residência": "Blüdhaven",
+            "Bordões": "'Nunca desisto de uma luta justa!'",
             "Nome de batismo": "Dick Grayson",
             "Criadores": "Bob Kane e Bill Finger",
             "Ano de criação": "1940 (como Robin), 1984 (como Asa Noturna)",
@@ -101,6 +122,9 @@ let dados = {
         {
             "Nome": "Ajax",
             "Nome original": "Martian Manhunter",
+            "Outros nomes": "Caçador de Marte, J'onn J'onzz",
+            "Cidade de residência": "Metropolis",
+            "Bordões": "‘A justiça sempre prevalecerá’, ‘Para Marte, e para a Terra.’",
             "Nome de batismo": "J'onn J'onzz",
             "Criadores": "Joseph Samachson e Joe Certa",
             "Ano de criação": 1955,
@@ -115,6 +139,9 @@ let dados = {
         {
             "Nome": "Batman",
             "Nome original": "Batman",
+            "Outros nomes": "Cavaleiro das Trevas, O Detetive",
+            "Cidade de residência": "Gotham City",
+            "Bordões": "‘Eu sou a vingança, eu sou a noite, eu sou o Batman.’",
             "Nome de batismo": "Bruce Wayne",
             "Criadores": "Bob Kane e Bill Finger",
             "Ano de criação": 1939,
@@ -129,6 +156,9 @@ let dados = {
         {
             "Nome": "Cyborg",
             "Nome original": "Cyborg",
+            "Outros nomes": "Victor Stone",
+            "Cidade de residência": "Detroit",
+            "Bordões": "‘Booyah!’",
             "Nome de batismo": "Victor Stone",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -146,6 +176,9 @@ let dados = {
         {
             "Nome": "Homem Aranha",
             "Nome original": "Spider-Man",
+            "Outros nomes": "'Cabeça de Teia', 'Amigão da Vizinhança', 'Teioso'",
+            "Cidade de residência": "Nova York",
+            "Bordões": "'Com grandes poderes vêm grandes responsabilidades!', 'Seu amigão da vizinhança, o Homem-Aranha!'",
             "Nome de batismo": "Peter Parker",
             "Criadores": "Stan Lee e Steve Ditko",
             "Ano de criação": 1962,
@@ -160,6 +193,9 @@ let dados = {
         {
             "Nome": "Demolidor",
             "Nome original": "Daredevil",
+            "Outros nomes": "'O Homem Sem Medo'",
+            "Cidade de residência": "Hell's Kitchen, Nova York",
+            "Bordões": "'Eu sou a justiça!'",
             "Nome de batismo": "Matthew 'Matt' Murdock",
             "Criadores": "Stan Lee e Bill Everett",
             "Ano de criação": 1964,
@@ -174,6 +210,9 @@ let dados = {
         {
             "Nome": "Feiticeira Escarlate",
             "Nome original": "Scarlet Witch",
+            "Outros nomes": "'Wanda', 'A Feiticeira'",
+            "Cidade de residência": "Wundagore, Sokovia",
+            "Bordões": "'Eu sou a Feiticeira Escarlate!', 'Nada mais importa...'",
             "Nome de batismo": "Wanda Maximoff",
             "Criadores": "Stan Lee e Jack Kirby",
             "Ano de criação": 1964,
@@ -188,6 +227,9 @@ let dados = {
         {
             "Nome": "Capitão América",
             "Nome original": "Captain America",
+            "Outros nomes": "'Sentinela da Liberdade'",
+            "Cidade de residência": "Brooklyn, Nova York",
+            "Bordões": "'Eu posso fazer isso o dia todo!', 'Avante, Vingadores!'",
             "Nome de batismo": "Steve Rogers",
             "Criadores": "Joe Simon e Jack Kirby",
             "Ano de criação": 1941,
@@ -202,6 +244,9 @@ let dados = {
         {
             "Nome": "Homem de Ferro",
             "Nome original": "Iron Man",
+            "Outros nomes": "'Gênio, Bilionário, Playboy, Filantropo'",
+            "Cidade de residência": "Malibu, Califórnia",
+            "Bordões": "'Eu sou o Homem de Ferro!'",
             "Nome de batismo": "Tony Stark",
             "Criadores": "Stan Lee, Larry Lieber, Don Heck e Jack Kirby",
             "Ano de criação": 1963,
@@ -216,6 +261,9 @@ let dados = {
         {
             "Nome": "Hulk",
             "Nome original": "Hulk",
+            "Outros nomes": "'Gigante Esmeralda'",
+            "Cidade de residência": "Desconhecida",
+            "Bordões": "'Hulk esmaga!'",
             "Nome de batismo": "Bruce Banner",
             "Criadores": "Stan Lee e Jack Kirby",
             "Ano de criação": 1962,
@@ -230,6 +278,9 @@ let dados = {
         {
             "Nome": "Thor",
             "Nome original": "Thor",
+            "Outros nomes": "Deus do Trovão, Filho de Odin",
+            "Cidade de residência": "Asgard",
+            "Bordões": "Pelo poder de Asgard!, Eu sou o trovão!",
             "Nome de batismo": "Thor Odinson",
             "Criadores": "Stan Lee, Larry Lieber e Jack Kirby",
             "Ano de criação": 1962,
@@ -244,6 +295,9 @@ let dados = {
         {
             "Nome": "Wolverine",
             "Nome original": "Wolverine",
+            "Outros nomes": "Logan, Arma X",
+            "Cidade de residência": "Madripoor, Instituto Xavier",
+            "Bordões": "Sou o melhor no que faço, mas o que faço não é nada bonito.",
             "Nome de batismo": "James Howlett (Logan)",
             "Criadores": "Roy Thomas, Len Wein e John Romita Sr.",
             "Ano de criação": 1974,
@@ -258,6 +312,9 @@ let dados = {
         {
             "Nome": "Viúva Negra",
             "Nome original": "Black Widow",
+            "Outros nomes": "Natasha Romanova, Tasha",
+            "Cidade de residência": "Nova York",
+            "Bordões": "Eu cuido disso.",
             "Nome de batismo": "Natasha Romanoff",
             "Criadores": "Stan Lee, Don Rico e Don Heck",
             "Ano de criação": 1964,
