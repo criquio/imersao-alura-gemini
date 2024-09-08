@@ -2,6 +2,7 @@ let dados = {
     "DC": [
         {
             "Nome": "Super Homem",
+            "Nome original": "Superman",
             "Nome de batismo": "Kal-El",
             "Criadores": "Jerry Siegel e Joe Shuster",
             "Ano de criação": 1938,
@@ -15,6 +16,7 @@ let dados = {
         },
         {
             "Nome": "Mulher Maravilha",
+            "Nome original": "Wonder Woman",
             "Nome de batismo": "Diana",
             "Criadores": "William Moulton Marston",
             "Ano de criação": 1941,
@@ -28,6 +30,7 @@ let dados = {
         },
         {
             "Nome": "Supergirl",
+            "Nome original": "Supergirl",
             "Nome de batismo": "Kara Zor-El",
             "Criadores": "Otto Binder e Al Plastino",
             "Ano de criação": 1959,
@@ -41,6 +44,7 @@ let dados = {
         },
         {
             "Nome": "Flash",
+            "Nome original": "Flash",
             "Nome de batismo": "Barry Allen",
             "Criadores": "Gardner Fox e Harry Lampert",
             "Ano de criação": 1940,
@@ -54,6 +58,7 @@ let dados = {
         },
         {
             "Nome": "Estelar",
+            "Nome original": "Starfire",
             "Nome de batismo": "Koriand'r",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -67,6 +72,7 @@ let dados = {
         },
         {
             "Nome": "Ravena",
+            "Nome original": "Raven",
             "Nome de batismo": "Rachel Roth",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -80,6 +86,7 @@ let dados = {
         },
         {
             "Nome": "Asa Noturna",
+            "Nome original": "Nightwing",
             "Nome de batismo": "Dick Grayson",
             "Criadores": "Bob Kane e Bill Finger",
             "Ano de criação": "1940 (como Robin), 1984 (como Asa Noturna)",
@@ -93,6 +100,7 @@ let dados = {
         },
         {
             "Nome": "Ajax",
+            "Nome original": "Martian Manhunter",
             "Nome de batismo": "J'onn J'onzz",
             "Criadores": "Joseph Samachson e Joe Certa",
             "Ano de criação": 1955,
@@ -106,6 +114,7 @@ let dados = {
         },
         {
             "Nome": "Batman",
+            "Nome original": "Batman",
             "Nome de batismo": "Bruce Wayne",
             "Criadores": "Bob Kane e Bill Finger",
             "Ano de criação": 1939,
@@ -119,6 +128,7 @@ let dados = {
         },
         {
             "Nome": "Cyborg",
+            "Nome original": "Cyborg",
             "Nome de batismo": "Victor Stone",
             "Criadores": "Marv Wolfman e George Pérez",
             "Ano de criação": 1980,
@@ -135,6 +145,7 @@ let dados = {
     "Marvel": [
         {
             "Nome": "Homem Aranha",
+            "Nome original": "Spider-Man",
             "Nome de batismo": "Peter Parker",
             "Criadores": "Stan Lee e Steve Ditko",
             "Ano de criação": 1962,
@@ -148,6 +159,7 @@ let dados = {
         },
         {
             "Nome": "Demolidor",
+            "Nome original": "Daredevil",
             "Nome de batismo": "Matthew 'Matt' Murdock",
             "Criadores": "Stan Lee e Bill Everett",
             "Ano de criação": 1964,
@@ -161,6 +173,7 @@ let dados = {
         },
         {
             "Nome": "Feiticeira Escarlate",
+            "Nome original": "Scarlet Witch",
             "Nome de batismo": "Wanda Maximoff",
             "Criadores": "Stan Lee e Jack Kirby",
             "Ano de criação": 1964,
@@ -174,6 +187,7 @@ let dados = {
         },
         {
             "Nome": "Capitão América",
+            "Nome original": "Captain America",
             "Nome de batismo": "Steve Rogers",
             "Criadores": "Joe Simon e Jack Kirby",
             "Ano de criação": 1941,
@@ -187,6 +201,7 @@ let dados = {
         },
         {
             "Nome": "Homem de Ferro",
+            "Nome original": "Iron Man",
             "Nome de batismo": "Tony Stark",
             "Criadores": "Stan Lee, Larry Lieber, Don Heck e Jack Kirby",
             "Ano de criação": 1963,
@@ -200,6 +215,7 @@ let dados = {
         },
         {
             "Nome": "Hulk",
+            "Nome original": "Hulk",
             "Nome de batismo": "Bruce Banner",
             "Criadores": "Stan Lee e Jack Kirby",
             "Ano de criação": 1962,
@@ -213,6 +229,7 @@ let dados = {
         },
         {
             "Nome": "Thor",
+            "Nome original": "Thor",
             "Nome de batismo": "Thor Odinson",
             "Criadores": "Stan Lee, Larry Lieber e Jack Kirby",
             "Ano de criação": 1962,
@@ -226,6 +243,7 @@ let dados = {
         },
         {
             "Nome": "Wolverine",
+            "Nome original": "Wolverine",
             "Nome de batismo": "James Howlett (Logan)",
             "Criadores": "Roy Thomas, Len Wein e John Romita Sr.",
             "Ano de criação": 1974,
@@ -239,6 +257,7 @@ let dados = {
         },
         {
             "Nome": "Viúva Negra",
+            "Nome original": "Black Widow",
             "Nome de batismo": "Natasha Romanoff",
             "Criadores": "Stan Lee, Don Rico e Don Heck",
             "Ano de criação": 1964,
@@ -249,5 +268,5 @@ let dados = {
             "Afiliações": "Vingadores.",
             "Ficha técnica": "Mestre em combate corpo a corpo, espionagem, uso de armas e tecnologia avançada.",
             "Principais inimigos": "Treinador (Taskmaster), General Dreykov, Viúva de Ferro (Yelena Belova)."
-        }
+        },
 ]};
